@@ -17,6 +17,6 @@
 <h3>Blog Detais Page</h3>
 <img src="image/blog-detail.png">
 
-<h3>Contect Page</h3>
+<h3>Contact Page</h3>
 <img src="image/contect.png">
 
