@@ -4,5 +4,5 @@
 <h2>Contents</h2>
 
 <p>In this project, there are home page, detail pages of countries, contact page.</p>
-
-<img src="image/signin.png">
+<h3>Home Page</h3>
+<img src="mage/homepage.png">
